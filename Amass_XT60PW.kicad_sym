@@ -6,7 +6,7 @@
     (property "Value" "Amass_XT60PW" (at -2.54 -5.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at -5.08 0 0)
+    (property "Footprint" "Amass_XT60PW:Amass_XT60PW" (at -5.08 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at -5.08 0 0)
